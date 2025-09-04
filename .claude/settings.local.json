@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet build)",
+      "mcp__wsl__list_directory",
+      "Bash(export PATH=\"$HOME/.dotnet:$PATH\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
